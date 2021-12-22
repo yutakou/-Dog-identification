@@ -1,1 +1,1 @@
-# -Dog-identification
+# Dog-identification
